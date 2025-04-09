@@ -1,0 +1,157 @@
+
+{
+  "meta": {
+    "title": "TalentUp - Recrutez les talents de demain",
+    "description": "Une plateforme innovante qui connecte les entreprises aux talents émergents et offre aux apprenants des opportunités de croissance professionnelle."
+  },
+  "navbar": {
+    "home": "Accueil",
+    "companies": "Pour les entreprises",
+    "learners": "Pour les apprenants",
+    "webinars": "Webinaires",
+    "interns": "Nos stagiaires",
+    "about": "À propos",
+    "login": "Se connecter",
+    "signup": "S'inscrire",
+    "profile": "Profil",
+    "settings": "Paramètres",
+    "logout": "Déconnexion"
+  },
+  "home": {
+    "hero": {
+      "title": "Recrutez les talents de demain",
+      "subtitle": "Découvrez des candidats avec des projets concrets",
+      "viewInterns": "Voir nos stagiaires",
+      "exploreWebinars": "Explorer nos webinaires"
+    },
+    "welcome": {
+      "title": "Bienvenue sur TalentUp",
+      "text": "Une plateforme innovante qui connecte les entreprises aux talents émergents et offre aux apprenants des opportunités de croissance professionnelle.",
+      "forCompanies": "Pour les entreprises",
+      "forLearners": "Pour les apprenants"
+    },
+    "why": {
+      "title": "Pourquoi TalentUp ?",
+      "point1": "Des candidats qualifiés et prêts à contribuer dès le premier jour.",
+      "point2": "Une communauté d'apprenants engagés partageant leurs connaissances.",
+      "point3": "Un processus simplifié pour recruter ou se former."
+    }
+  },
+  "companies": {
+    "title": "Pour les entreprises",
+    "heroTitle": "Une solution sur mesure pour votre entreprise",
+    "heroText": "Recruter un alternant peut être risqué lorsque le CV ne reflète pas toujours les compétences réelles. Avec TalentUp, vous accédez à des talents testés, validés et prêts à contribuer dès le premier jour.",
+    "advantages": {
+      "title": "Les avantages pour votre entreprise",
+      "point1": "Des candidats triés sur le volet",
+      "point2": "Évalués sur leurs compétences pratiques",
+      "point3": "Portfolio détaillé consultable avant l'entretien",
+      "point4": "6 mois de formation intensive garantissant une montée en compétences."
+    },
+    "process": {
+      "title": "Processus simplifié",
+      "point1": "Consultez les portfolios des candidats directement sur notre plateforme.",
+      "point2": "Contactez-nous pour organiser un entretien et finaliser votre sélection."
+    },
+    "cta": "Contactez-nous dès aujourd'hui"
+  },
+  "learners": {
+    "title": "Pour les apprenants",
+    "heroTitle": "Apprenez, Partagez, Évoluez vers une carrière en informatique !",
+    "heroText": "Rejoignez une communauté d'apprenants engagés et accédez à des ressources exclusives pour grandir dans le monde de l'IT.",
+    "options": {
+      "title": "Deux façons de monter en compétences",
+      "option1": {
+        "title": "L'échange – Apprenez gratuitement",
+        "text": "Partagez vos tutoriels, projets ou formations et obtenez un accès gratuit à des ressources exclusives."
+      },
+      "option2": {
+        "title": "L'accès payant – Progressez à votre rythme",
+        "text": "Consultez nos formations premium sans engagement."
+      }
+    },
+    "benefits": {
+      "title": "Un tremplin vers l'alternance et l'emploi",
+      "point1": "Publiez et démontrez vos compétences",
+      "point2": "Accédez à un stage intensif de 6 mois",
+      "point3": "Créez un portfolio solide visible par les recruteurs."
+    },
+    "cta": "Rejoignez-nous dès aujourd'hui"
+  },
+  "webinars": {
+    "title": "Webinaires",
+    "search": "Rechercher",
+    "filters": {
+      "title": "Filtrer par",
+      "date": "Date",
+      "category": "Catégorie",
+      "technology": "Technologie",
+      "difficulty": "Niveau"
+    },
+    "register": "S'inscrire",
+    "view": "Voir"
+  },
+  "interns": {
+    "title": "Nos stagiaires",
+    "search": "Rechercher",
+    "filters": {
+      "skills": "Compétences",
+      "projects": "Projets",
+      "specialty": "Spécialité",
+      "technology": "Technologie",
+      "location": "Localisation"
+    }
+  },
+  "about": {
+    "title": "À propos",
+    "history": {
+      "title": "Notre histoire",
+      "text": "TalentUp a été créée en 2023 avec une vision claire : révolutionner le recrutement et la formation en informatique. Nous avons constaté un décalage important entre les besoins des entreprises et les compétences réelles des candidats. C'est pourquoi nous avons décidé de créer une plateforme qui permet aux entreprises de découvrir des talents véritablement qualifiés et aux apprenants de développer leurs compétences de manière concrète."
+    },
+    "values": {
+      "title": "Nos valeurs",
+      "value1": {
+        "title": "Excellence",
+        "text": "Nous nous engageons à maintenir un haut niveau d'exigence dans tous nos programmes."
+      },
+      "value2": {
+        "title": "Innovation",
+        "text": "Nous encourageons l'innovation et l'adaptation constante aux évolutions technologiques."
+      },
+      "value3": {
+        "title": "Collaboration",
+        "text": "Nous croyons que la collaboration et le partage de connaissances sont essentiels à la réussite."
+      }
+    },
+    "csr": {
+      "title": "Engagement RSE",
+      "text": "TalentUp s'engage à avoir un impact positif sur la société. Nous soutenons activement l'inclusion numérique en offrant des bourses à des candidats issus de milieux défavorisés et en organisant des ateliers gratuits pour initier les jeunes au code."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "send": "Envoyer",
+      "success": "Votre message a été envoyé avec succès.",
+      "error": "Une erreur est survenue. Veuillez réessayer."
+    }
+  },
+  "footer": {
+    "description": "TalentUp, la plateforme qui connecte les entreprises aux talents émergents et offre aux apprenants des opportunités de croissance professionnelle.",
+    "platform": "Plateforme",
+    "forCompanies": "Pour les entreprises",
+    "forLearners": "Pour les apprenants",
+    "webinars": "Webinaires",
+    "interns": "Nos stagiaires",
+    "company": "Entreprise",
+    "about": "À propos",
+    "contact": "Contact",
+    "privacy": "Confidentialité",
+    "terms": "Conditions d'utilisation",
+    "connect": "Connectez-vous",
+    "rights": "Tous droits réservés."
+  }
+}

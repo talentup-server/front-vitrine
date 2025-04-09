@@ -1,0 +1,157 @@
+
+{
+  "meta": {
+    "title": "TalentUp - Recruit the talents of tomorrow",
+    "description": "An innovative platform that connects companies to emerging talents and offers learners opportunities for professional growth."
+  },
+  "navbar": {
+    "home": "Home",
+    "companies": "For companies",
+    "learners": "For learners",
+    "webinars": "Webinars",
+    "interns": "Our interns",
+    "about": "About",
+    "login": "Log in",
+    "signup": "Sign up",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Log out"
+  },
+  "home": {
+    "hero": {
+      "title": "Recruit the talents of tomorrow",
+      "subtitle": "Discover candidates with concrete projects",
+      "viewInterns": "View our interns",
+      "exploreWebinars": "Explore webinars"
+    },
+    "welcome": {
+      "title": "Welcome to TalentUp",
+      "text": "An innovative platform that connects companies to emerging talents and offers learners opportunities for professional growth.",
+      "forCompanies": "For companies",
+      "forLearners": "For learners"
+    },
+    "why": {
+      "title": "Why TalentUp?",
+      "point1": "Qualified candidates ready to contribute from day one.",
+      "point2": "A community of engaged learners sharing their knowledge.",
+      "point3": "A simplified process for recruiting or training."
+    }
+  },
+  "companies": {
+    "title": "For companies",
+    "heroTitle": "A tailored solution for your company",
+    "heroText": "Recruiting an intern can be risky when a resume doesn't always reflect true skills. With TalentUp, you gain access to tested, validated talents ready to contribute from day one.",
+    "advantages": {
+      "title": "Benefits for your company",
+      "point1": "Handpicked candidates",
+      "point2": "Evaluated on practical skills",
+      "point3": "Detailed portfolio available before the interview",
+      "point4": "6 months of intensive training ensuring skills improvement."
+    },
+    "process": {
+      "title": "Simplified process",
+      "point1": "Browse candidate portfolios directly on our platform.",
+      "point2": "Contact us to arrange an interview and finalize your selection."
+    },
+    "cta": "Contact us today"
+  },
+  "learners": {
+    "title": "For learners",
+    "heroTitle": "Learn, Share, Evolve towards an IT career!",
+    "heroText": "Join a community of engaged learners and access exclusive resources to grow in the IT world.",
+    "options": {
+      "title": "Two ways to improve your skills",
+      "option1": {
+        "title": "Exchange – Learn for free",
+        "text": "Share your tutorials, projects, or training and get free access to exclusive resources."
+      },
+      "option2": {
+        "title": "Paid access – Progress at your own pace",
+        "text": "Access our premium trainings with no commitment."
+      }
+    },
+    "benefits": {
+      "title": "A springboard towards internship and employment",
+      "point1": "Publish and demonstrate your skills",
+      "point2": "Access a 6-month intensive internship",
+      "point3": "Create a strong portfolio visible to recruiters."
+    },
+    "cta": "Join us today"
+  },
+  "webinars": {
+    "title": "Webinars",
+    "search": "Search",
+    "filters": {
+      "title": "Filter by",
+      "date": "Date",
+      "category": "Category",
+      "technology": "Technology",
+      "difficulty": "Level"
+    },
+    "register": "Register",
+    "view": "View"
+  },
+  "interns": {
+    "title": "Our interns",
+    "search": "Search",
+    "filters": {
+      "skills": "Skills",
+      "projects": "Projects",
+      "specialty": "Specialty",
+      "technology": "Technology",
+      "location": "Location"
+    }
+  },
+  "about": {
+    "title": "About",
+    "history": {
+      "title": "Our story",
+      "text": "TalentUp was created in 2023 with a clear vision: to revolutionize recruitment and training in IT. We noticed a significant gap between companies' needs and candidates' actual skills. That's why we decided to create a platform that allows companies to discover truly qualified talents and learners to develop their skills in a concrete way."
+    },
+    "values": {
+      "title": "Our values",
+      "value1": {
+        "title": "Excellence",
+        "text": "We are committed to maintaining a high level of standards in all our programs."
+      },
+      "value2": {
+        "title": "Innovation",
+        "text": "We encourage innovation and constant adaptation to technological developments."
+      },
+      "value3": {
+        "title": "Collaboration",
+        "text": "We believe that collaboration and knowledge sharing are essential to success."
+      }
+    },
+    "csr": {
+      "title": "CSR Commitment",
+      "text": "TalentUp is committed to having a positive impact on society. We actively support digital inclusion by offering scholarships to candidates from disadvantaged backgrounds and organizing free workshops to introduce young people to coding."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send",
+      "success": "Your message has been sent successfully.",
+      "error": "An error occurred. Please try again."
+    }
+  },
+  "footer": {
+    "description": "TalentUp, the platform that connects companies to emerging talents and offers learners opportunities for professional growth.",
+    "platform": "Platform",
+    "forCompanies": "For companies",
+    "forLearners": "For learners",
+    "webinars": "Webinars",
+    "interns": "Our interns",
+    "company": "Company",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms of use",
+    "connect": "Connect",
+    "rights": "All rights reserved."
+  }
+}
