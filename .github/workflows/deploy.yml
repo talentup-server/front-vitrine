@@ -19,7 +19,7 @@ jobs:
         host: ${{ secrets.SERVER_HOST }} #Adresse IP du serveur (IP Public) dans settings > secrets and variable > actions
         username: ${{ secrets.SERVER_USER }} #L'utilisateur du serveur 
         key: ${{ secrets.SSH_PRIVATE_KEY }} # Clé privée SSH du serveur
-        port: 2022 # Port du connexion SSH du serveur
+        port: 22 # Port du connexion SSH du serveur
         script: |
           set -e
           cd /home/fandresena/Bureau/new_vitrine
