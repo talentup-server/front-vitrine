@@ -12,7 +12,7 @@ const Index = () => {
       {/* Hero Section */}
       <section className="relative py-20 md:py-32 overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-r from-talentup-blue400/90 to-talentup-green/90 z-0"></div>
-        <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80')] bg-cover bg-center mix-blend-overlay z-0"></div>
+        <div className="absolute inset-0 bg-[url('https://imddages.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80')] bg-cover bg-center mix-blend-overlay z-0"></div>
         
         <div className="container relative z-10">
           <div className="max-w-2xl text-white">
