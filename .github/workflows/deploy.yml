@@ -1,0 +1,32 @@
+name: Déployement de site vitrine
+
+on: 
+  push:
+    branches:
+      - master # la branche à déployer
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:  # Serveur virtuel
+    - name: Cloner le repo
+      uses: actions/checkout@v3
+
+    - name: Déploiement sur le serveur
+      uses: appleboy/ssh-action@v1.0.0
+      with:
+        host: ${{ secrets.SERVER_HOST }} #Adresse IP du serveur (IP Public) dans settings > secrets and variable > actions
+        username: ${{ secrets.SERVER_USER }} #L'utilisateur du serveur 
+        key: ${{ secrets.SSH_PRIVATE_KEY }} # Clé privée SSH du serveur
+        port: 2022 # Port du connexion SSH du serveur
+        script: |
+          cd /home/fandresena/Bureau/new_vitrine
+          git pull origin master
+          npm install
+          npm run build
+          if [ $? -eq 0 ]; then
+            sudo mr -rf /var/www/talent/vitrine/*
+            sudo cp -r /home/fandresena/Bureau/new_vitrine/dist/* /var/www/talent/vitrine/
+          fi
+          sudo systemctl restart nginx
